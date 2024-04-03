@@ -1,5 +1,5 @@
 def print_params(name):
-    for i in range(2):
+    for _ in range(2):
         print(name)
 
 
